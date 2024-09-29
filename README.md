@@ -77,6 +77,7 @@ We encourage contributions and collaborations. If you wish to contribute to this
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of your changes.
 4. If you would like to collaborate on a larger feature, feel free to open an issue, and we can discuss it further.
+   
 If you're interested in partnering for extended development or have suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamedshaad/) or open an issue in the repository.
 
 ## License
